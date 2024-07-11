@@ -11,3 +11,6 @@ Gerador de Mnemonics Multi-Lingual
 Perfeito para projetos de recuperação de Wallets em diferentes Criptos Ativos, BTC, ETH, LTC, etc....
 
 Agradecimantos ao grande PyMmdrza!
+
+# Mnemonic Avançado
+Muito cuidado para quem for usar o Avançado, não é recomendado usar em Hardwares fracos, de preferencia em CPU's com mais de 20 nucleos, séries I7+, ou séries Xeon de Altissima performance!!
